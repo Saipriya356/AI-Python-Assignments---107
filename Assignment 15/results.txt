@@ -1,0 +1,3 @@
+{"city": "Hyderabad", "temperature": 23.23, "humidity": 56, "weather": "Haze", "time": "2025-11-30 18:38:56.224051"}
+{"city": "Hyderabad", "temperature": 27.23, "humidity": 47, "weather": "Haze", "time": "2025-12-01 16:46:13.585877"}
+{"city": "Hyderabad", "temp": 27.23, "humidity": 47, "weather": "Haze"}
